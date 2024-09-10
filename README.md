@@ -90,7 +90,9 @@ This function checks if the articles are sorted from newest to oldest based on t
 - **Returns**:
   - `true` if the articles are sorted correctly from newest to oldest, `false` otherwise.
 
----
+## Attached Screenshot for your reference
+![Code-execution-screenshot](https://github.com/user-attachments/assets/504af24b-b0e9-40fc-8fa6-6dfda7dac729)
+
 
 ## Example of Articles Object
 
@@ -112,3 +114,5 @@ After scraping, the articles will be in the following format:
   },
   ...
 ]
+
+
